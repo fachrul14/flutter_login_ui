@@ -6,10 +6,10 @@
 ## 📱 Screenshot
 
 ### Halaman Login (kosong)
-![Login Empty](assets/screenshots/ss1.jpg.png)
+![Login Empty](assets/screenshots/ss1.jpg)
 
 ### Halaman Login (terisi)
-![Login Filled](assets/screenshots/ss2.jpg.png)
+![Login Filled](assets/screenshots/ss2.jpg)
 
 ### Halaman menu
 ![Menu Page](assets/screenshots/ss3.jpg)
